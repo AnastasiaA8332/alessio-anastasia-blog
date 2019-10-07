@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+      href: https://github.com/AnastasiaA8332/alessio-anastasia-blog
+base_url: https://AnastasiaA8332.github.io/alessio-anastasia-blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
