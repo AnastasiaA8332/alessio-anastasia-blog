@@ -1,0 +1,62 @@
+---
+title: "Article 1 : living conditions of pigs in slaughterhouses"
+description: |-
+  -
+author:
+  - name: Alessio Anastasia
+    url: {}
+date: 10-20-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Article analysis n° 1 
+
+### I. Title of the article: 
+Pigs: Intelligent Animals Suffering on Farms and in Slaughterhouses  
+
+### II. Name of the Magazine + Source [URL]:
+The organisation Peta https://www.peta.org/issues/animals-used-for-food/animals-used-food-factsheets/pigs-intelligent-animals-suffering-factory-farms-slaughterhouses/
+
+### III. Vocabulary (NO FRENCH !)
+Words from the text 	Synonym / explanation in English
+E.g. To cope with	To deal with
+E.g. Foreseeable future	Not too distant future
+
+### IV. Analysis table
+Researchers	(insert names and, if possible, professions)
+Published in? 	(insert date)
+General topic?	(summarize the topic in one or two sentences)
+Procedure/what was examined?	(Give some details about the topic, i.e. methodology/material/etc.)
+Conclusions/discovery?	(what did the researchers conclude? Did they find something?)
+Remaining questions?	(check if there are still interrogations at the end of the article)
+
+| Researchers                    |   journalist of peta   |
+|--------------------------------|------|
+| Published in?                  |   7/10/19  |
+| General topic?                 |   living conditions of pigs in slaughterhouses and behavior of farmers   |
+| Procedure/what   was examined? |   They described how farmers treat pigs. Pigs are in crates everyday 24/24 for their meat and to give born at piglet|
+| Conclusions/discovery?         |   They discover the treatment of pigs in slaughterhouses by farmers   |
+| Remaining questions?           |     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

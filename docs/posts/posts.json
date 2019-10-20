@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-10-20-my-post/",
+    "title": "Article 1 : living conditions of pigs in slaughterhouses",
+    "description": "-",
+    "author": [
+      {
+        "name": "Alessio Anastasia",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-20",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-20T18:41:31+02:00"
+  },
+  {
     "path": "posts/2019-10-07-article-1/",
     "title": "article 1",
     "description": "A short description of the post.",
@@ -30,6 +45,6 @@
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-07T15:59:09+02:00"
+    "last_modified": "2019-10-20T17:13:51+02:00"
   }
 ]

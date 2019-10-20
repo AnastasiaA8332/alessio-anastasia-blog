@@ -1,11 +1,10 @@
 ---
-title: "article 1"
-description: |
-  A short description of the post.
+title: "Article 1 : living conditions of pigs in slaughterhouses"
+description: |A short description of the post.
 author:
   - name: Alessio Anastasia
-    url: {}
-date: 10-07-2019
+    url: {https://www.peta.org/issues/animals-used-for-food/animals-used-food-factsheets/pigs-intelligent-animals-suffering-factory-farms-slaughterhouses/}
+date: 20-10-2019
 output:
   distill::distill_article:
     self_contained: false
