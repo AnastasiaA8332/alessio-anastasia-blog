@@ -24,18 +24,27 @@ Pigs: Intelligent Animals Suffering on Farms and in Slaughterhouses
 ### II. Name of the Magazine + Source [URL]:
 The organisation Peta https://www.peta.org/issues/animals-used-for-food/animals-used-food-factsheets/pigs-intelligent-animals-suffering-factory-farms-slaughterhouses/
 
-### III. Vocabulary (NO FRENCH !)
-Words from the text 	Synonym / explanation in English
-E.g. To cope with	To deal with
-E.g. Foreseeable future	Not too distant future
+### III. Vocabulary
+
+| words from the text | Synonym / explanation in   English | words in french       |
+| ------------------- | ---------------------------------- | --------------------- |
+| mud                 | clay                               | boue                  |
+| crates              | box                                | caisse                |
+| nest                | refuge                             | nid                   |
+| chunks              | hunk                               | morceaux              |
+| hurdle              | hindrance                          | obstacle              |
+| sheer               | pure                               |  pur/naturel /intact  |
+| scalding            | blazing                            | bouillant             |
+| consumption         | uptake/drinking                    | consommation          |
+| samples             | pattern                            | échantillons          |
+| spread              | dissemination                      | propager              |
+| manure              | compost                            | fumier                |
+| pits                | trench                             | fosses                |
+| dumping             | removal                            | décharger             |
+| sprayed             | splash                             | pulvérisé             |
+| bonds               | bind (lier)                        | des liens (menotte)   |
 
 ### IV. Analysis table
-Researchers	(insert names and, if possible, professions)
-Published in? 	(insert date)
-General topic?	(summarize the topic in one or two sentences)
-Procedure/what was examined?	(Give some details about the topic, i.e. methodology/material/etc.)
-Conclusions/discovery?	(what did the researchers conclude? Did they find something?)
-Remaining questions?	(check if there are still interrogations at the end of the article)
 
 | Researchers                    |   journalist of peta   |
 |--------------------------------|------|
