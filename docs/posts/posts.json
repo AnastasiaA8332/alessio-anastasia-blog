@@ -2,7 +2,7 @@
   {
     "path": "posts/2019-10-20-my-post/",
     "title": "Article 1 : living conditions of pigs in slaughterhouses",
-    "description": "-",
+    "description": "test",
     "author": [
       {
         "name": "Alessio Anastasia",
@@ -12,39 +12,6 @@
     "date": "2019-10-20",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-20T22:42:39+02:00"
-  },
-  {
-    "path": "posts/2019-10-07-article-1/",
-    "title": "article 1",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Alessio Anastasia",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-07",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-07T16:11:25+02:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-20T17:13:52+02:00"
+    "last_modified": "2019-10-23T14:35:03+02:00"
   }
 ]

@@ -1,10 +1,8 @@
 ---
 title: "Article 1 : living conditions of pigs in slaughterhouses"
-description: |-
-  -
+description: "violence of farmer about pigs and piglets"
 author:
   - name: Alessio Anastasia
-    url: {}
 date: 10-20-2019
 output:
   distill::distill_article:
@@ -18,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Article analysis n° 1 
 
 ### I. Title of the article: 
+
 Pigs: Intelligent Animals Suffering on Farms and in Slaughterhouses  
 
 ### II. Name of the Magazine + Source [URL]:

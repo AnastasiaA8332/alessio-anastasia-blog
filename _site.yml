@@ -14,6 +14,6 @@ navbar:
 base_url: https://AnastasiaA8332.github.io/alessio-anastasia-blog
 collections:
     posts:
-    disqus: alessio-anastasia-blog
+      disqus: alessio-anastasia-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
