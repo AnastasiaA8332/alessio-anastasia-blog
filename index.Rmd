@@ -1,5 +1,5 @@
 ---
-title: "boucherie dans les abattoirs"
+title: "butchery in slaughterhouses"
 site: distill::distill_website
 listing: posts
 ---
