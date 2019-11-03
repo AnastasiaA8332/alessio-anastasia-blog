@@ -15,6 +15,21 @@
     "last_modified": "2019-11-03T14:34:23+01:00"
   },
   {
+    "path": "posts/2019-11-03-article-4/",
+    "title": "article 4",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Alessio Anastasia",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-03T14:37:25+01:00"
+  },
+  {
     "path": "posts/2019-10-20-my-post/",
     "title": "Article 1 : living conditions of pigs in slaughterhouses",
     "description": "violence of farmer about pigs and piglets",
