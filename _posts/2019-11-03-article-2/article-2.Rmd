@@ -18,11 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I. Title of the article: 
 
-P  
+Trump Turns Back the Clock in America’s Meat Plants
 
 ### II. Name of the Magazine + Source [URL]:
 
-j
+The new republic | https://newrepublic.com/article/155363/trump-meatpacking-processing-plant-rules-upton-sinclair-jungle
 
 ### III. Vocabulary
 
@@ -46,12 +46,12 @@ j
 
 ### IV. Analysis table
 
-| Researchers                    |   j   |
+| Researchers                    |   Kim Kelly (writer and organizer)   |
 |--------------------------------|-------|
-| Published in?                  |   7  .|
-| General topic?                 |   l   |
-| Procedure/what   was examined? |   T...|
-| Conclusions/discovery?         |   T   |
+| Published in?                  |   14/10/19  .|
+| General topic?                 |   life conditions of workers in slaughterhouses   |
+| Procedure/what   was examined? |   They examine the life of workers and the conditions of meat...|
+| Conclusions/discovery?         |   Workers are here just for work and they should not cause any problems for your boss  |
 | Remaining questions?           |     |
 
 
