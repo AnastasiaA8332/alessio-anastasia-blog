@@ -1,6 +1,6 @@
 ---
-title: "article 2"
-description: "A short description of the post."
+title: "Article 2"
+description: "treatment of workers in slaughterhouses."
 author:
   - name: Alessio Anastasia
     url: {}

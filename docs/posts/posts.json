@@ -31,8 +31,8 @@
   },
   {
     "path": "posts/2019-11-03-article-2/",
-    "title": "article 2",
-    "description": "A short description of the post.",
+    "title": "Article 2",
+    "description": "treatment of workers in slaughterhouses.",
     "author": [
       {
         "name": "Alessio Anastasia",
@@ -42,7 +42,7 @@
     "date": "2019-11-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-03T20:10:13+01:00"
+    "last_modified": "2019-11-03T20:13:42+01:00"
   },
   {
     "path": "posts/2019-10-20-my-post/",
