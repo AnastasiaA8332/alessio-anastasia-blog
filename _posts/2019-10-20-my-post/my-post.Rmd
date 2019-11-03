@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 Pigs: Intelligent Animals Suffering on Farms and in Slaughterhouses  
 
 ### II. Name of the Magazine + Source [URL]:
-The organisation Peta https://www.peta.org/issues/animals-used-for-food/animals-used-food-factsheets/pigs-intelligent-animals-suffering-factory-farms-slaughterhouses/
+The organisation Peta / https://www.peta.org/issues/animals-used-for-food/animals-used-food-factsheets/pigs-intelligent-animals-suffering-factory-farms-slaughterhouses/
 
 ### III. Vocabulary
 
