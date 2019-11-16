@@ -18,11 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I. Title of the article: 
 
-P  
+McDonald's and Burger King get graded on their beef. Which one got an F ?  
 
 ### II. Name of the Magazine + Source [URL]:
 
-j
+Mashable + https://mashable.com/article/mcdonalds-taco-bell-chipotle-antibiotics-in-beef/?europe=true
 
 ### III. Vocabulary
 
@@ -46,10 +46,10 @@ j
 
 ### IV. Analysis table
 
-| Researchers                    |   j   |
+| Researchers                    |   SIOBHAN NEELA-STOCK   |
 |--------------------------------|-------|
-| Published in?                  |   7  .|
-| General topic?                 |   l   |
-| Procedure/what   was examined? |   T...|
-| Conclusions/discovery?         |   T   |
+| Published in?                  |   31/10/19   |
+| General topic?                 |   Meats of fastfoods   |
+| Procedure/what   was examined? |   The quality of meats and the quantity of antibiotics in meats in some fast-foods   |
+| Conclusions/discovery?         |   inform about the meats used in your favorite fast-foods like McDonald's    |
 | Remaining questions?           |     |
