@@ -1,6 +1,6 @@
 ---
 title: "article 3"
-description: "A short description of the post."
+description: "Meats in fast-food"
 author:
   - name: Alessio Anastasia
     url: {}
@@ -27,22 +27,17 @@ Mashable + https://mashable.com/article/mcdonalds-taco-bell-chipotle-antibiotics
 ### III. Vocabulary
 
 | words from the text | Synonym / explanation in   English |
-| ------------------- | ---------------------------------- |
-|                  |                                |
-|           |                                 |
-|                 |                              |
-|               |                                |
-|               |                           |
-|                |                                |
-|             |                             |
-|          |                     |
-|            |                             |
-|               |                       |
-|               |                             |
-|                 |                              |
-|              |                             |
-|              |                              |
-|                |                         |
+|----------------|-------------|
+| commitments | engagement   |
+|        scorecard          |               list                 |
+|       overcrowded    |             overpopulated                    |
+|         tide        |               tendency               |
+|        obliterate        |          eradicate                      |
+|        woefully       |             sadly              |
+|         curbing       |              restrain                  |
+|       stem      |                 arise            |
+|      craving     |           hunger          |
+
 
 ### IV. Analysis table
 

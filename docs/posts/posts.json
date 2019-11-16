@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2019-11-03-article-3/",
-    "title": "article 3",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Alessio Anastasia",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-03T14:34:24+01:00"
-  },
-  {
     "path": "posts/2019-11-03-article-4/",
     "title": "article 4",
     "description": "A short description of the post.",
@@ -43,6 +28,21 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-11-03T20:13:42+01:00"
+  },
+  {
+    "path": "posts/2019-11-03-article-3/",
+    "title": "article 3",
+    "description": "Meats in fast-food",
+    "author": [
+      {
+        "name": "Alessio Anastasia",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-16T21:04:45+01:00"
   },
   {
     "path": "posts/2019-10-20-my-post/",
