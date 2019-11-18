@@ -1,0 +1,31 @@
+---
+title: "english-activity"
+description: |
+  My different activity in english.
+author:
+  - name: Alessio Anastasia
+    url: {}
+date: 11-18-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Permanent : my clash royale and clash of clans games are in english for some years and i watch "clash-a-rama" with subtitles in english and some videos of "orange juice" and "surgical goblin" on youtube.
+
+Before 4 november : I watch some memes in english on instagram and facebook. 
+
+4 november : jour où j'ai crée ce fichier 
+
+7 november : Rick and Morty S1 Ep 1, 2, 3, 4
+
+9 november : Rick and Morty S1 Ep 5,6,7,8,9
+
+10 november : Rick and Morty S1 Ep 10,11, S2 Ep1
+
+11 november : Rick and Morty S2 Ep 2,3,4,5,6
+
