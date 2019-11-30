@@ -1,6 +1,6 @@
 ---
 title: "article 4"
-description: "A short description of the post."
+description: "Bacteria in meat of birds"
 author:
   - name: Alessio Anastasia
     url: {}
@@ -18,27 +18,27 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I. Title of the article: 
 
-P  
+Thanksgiving: A time for family, fun and food-borne illness
 
 ### II. Name of the Magazine + Source [URL]:
 
-j
+Los Angeles Times + https://www.latimes.com/opinion/story/2019-11-27/thanksgiving-a-time-for-family-fun-and-food-borne-illness
 
 ### III. Vocabulary
 
 | words from the text | Synonym / explanation in   English |
 | ------------------- | ---------------------------------- |
-|                  |                                |
-|           |                                 |
-|                 |                              |
-|               |                                |
-|               |                           |
-|                |                                |
-|             |                             |
-|          |                     |
-|            |                             |
-|               |                       |
-|               |                             |
+|          strain        |      injure                          |
+|       heed    | hear                                 |
+|           nasty      |  horrible                            |
+| poultry              |          chicken                      |
+|        sample       |                  piece         |
+|  crop up                |                 appear               |
+|          prompted   |                   indicate          |
+|    illness      |     disturbance                |
+|   mandatory         |            essential                 |
+| admonition               |                advice       |
+|          sink     |             descend/decline                |
 |                 |                              |
 |              |                             |
 |              |                              |
@@ -46,12 +46,12 @@ j
 
 ### IV. Analysis table
 
-| Researchers                    |   j   |
+| Researchers                    |   Journalist of LA Times   |
 |--------------------------------|-------|
-| Published in?                  |   7  .|
-| General topic?                 |   l   |
-| Procedure/what   was examined? |   T...|
-| Conclusions/discovery?         |   T   |
+| Published in?                  |   27/11/19  .|
+| General topic?                 |   Bacteria in Turkey and inspection in slaughterhouses   |
+| Procedure/what   was examined? |   Risk of infection about turkey |
+| Conclusions/discovery?         |   Keep an eye for poultry recall and don't wash your turkey   |
 | Remaining questions?           |     |
 
 
