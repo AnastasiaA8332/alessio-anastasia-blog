@@ -1,7 +1,7 @@
 ---
 title: "article 5"
 description: |
-  A short description of the post.
+  How to make foie gras ?
 author:
   - name: Alessio Anastasia
     url: {}
@@ -18,10 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I. Title of the article: 
 
-
+Grim undercover footage shows thousands of ducklings being force-fed or left to suffocate in bins in a French foie gras factory
 
 ### II. Name of the Magazine + Source [URL]:
 
+Mailonline + https://www.dailymail.co.uk/news/article-7780891/Foie-gras-factory-footage-suffocated-ducklings-revealed.html
 
 
 ### III. Vocabulary
@@ -46,12 +47,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### IV. Analysis table
 
-| Researchers                    |   y   |
+| Researchers                    |   James Mills   |
 |--------------------------------|-------|
-| Published in?                  |   /12/19  .|
-| General topic?                 |   B   |
-| Procedure/what   was examined? |   R |
-| Conclusions/discovery?         |   K   |
+| Published in?                  |   11/12/19  .|
+| General topic?                 |   animal abuse aboute duck   |
+| Procedure/what   was examined? |   The steps to make foie gras |
+| Conclusions/discovery?         |   Ducks suffer to have foie gras    |
 | Remaining questions?           |     |
 
 
