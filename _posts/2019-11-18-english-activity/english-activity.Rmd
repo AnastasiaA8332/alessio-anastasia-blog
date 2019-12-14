@@ -15,11 +15,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Permanent : my clash royale and clash of clans games are in english for some years and i watch "clash-a-rama" with subtitles in english and some videos of "orange juice" and "surgical goblin" on youtube.
+Permanent : my clash royale and clash of clans games are in english for some years and i watch "clash-a-rama" with subtitles in english and some videos of "orange juice", "surgical goblin" and "Kripparrian"on youtube.
 
 Before 4 november : I watch some memes in english on instagram and facebook. 
 
-4 november : jour où j'ai crée ce fichier 
+4 november : the date when i created this  
 
 7 november : Rick and Morty S1 Ep 1, 2, 3, 4
 
@@ -30,3 +30,11 @@ Before 4 november : I watch some memes in english on instagram and facebook.
 11 november : Rick and Morty S2 Ep 2,3,4,5,6
 
 12 november : The mandalorian chapter one VOSTFR 
+
+7 december : Rick and Morty S2 ep 7,8,9
+
+12 december : Rick and Morty S2 ep 10  S3 ep1,2,3,4,5
+
+13 december : Rick and Morty S3 ep 6,7,8,9,10
+
+14 december : Rick and Morty S4 ep 1,2,3,4
