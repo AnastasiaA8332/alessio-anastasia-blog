@@ -1,0 +1,57 @@
+---
+title: "article 5"
+description: |
+  A short description of the post.
+author:
+  - name: Alessio Anastasia
+    url: {}
+date: 12-14-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Article analysis n° 5 
+
+### I. Title of the article: 
+
+
+
+### II. Name of the Magazine + Source [URL]:
+
+
+
+### III. Vocabulary
+
+| words from the text | Synonym / explanation in   English |
+| ------------------- | ---------------------------------- |
+|                  |                                |
+|           |                                  |
+|                 |                              |
+|               |                                |
+|               |                           |
+|                  |                                |
+|             |                             |
+|          |                    |
+|            |                             |
+|                |                       |
+|               |                             |
+|                 |                              |
+|              |                             |
+|              |                              |
+|                |                         |
+
+### IV. Analysis table
+
+| Researchers                    |   y   |
+|--------------------------------|-------|
+| Published in?                  |   /12/19  .|
+| General topic?                 |   B   |
+| Procedure/what   was examined? |   R |
+| Conclusions/discovery?         |   K   |
+| Remaining questions?           |     |
+
+
