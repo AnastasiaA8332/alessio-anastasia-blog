@@ -1,7 +1,6 @@
 ---
 title: "article 6"
-description: |
-  A short description of the post.
+description: " “wet market” in Hong Kong and China."
 author:
   - name: Alessio Anastasia
     url: {}
@@ -14,8 +13,39 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+# Article analysis n° 6 
 
-Distill is a publication format for scientific and technical writing, native to the web.
+### I. Title of the article: 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Appetite for 'warm meat' drives risk of disease in Hong Kong and China
+
+### II. Name of the Magazine + Source [URL]:
+
+The guardian + https://www.theguardian.com/environment/2020/jan/23/appetite-for-warm-meat-drives-risk-of-disease-in-hong-kong-and-china
+
+### III. Vocabulary
+
+| words from the text | Synonym / explanation in   English |
+| ------------------- | ---------------------------------- |
+|                  |                                |
+|           |                                  |
+|                |                              |
+|               |                                |
+|               |                          |
+|                  |                                |
+|             |                             |
+|          |                    |
+|            |                             |
+
+### IV. Analysis table
+
+| Researchers                    |  journalist of "The guardian" + Zhong Yunfan   |
+|--------------------------------|-------|
+| Published in?                  |   23/01/2020  |
+| General topic?                 |   freshly slaughtered meat in wet market in Hong Kong and China   |
+| Procedure/what   was examined? |  risk of getting disease in these market  |
+| Conclusions/discovery?         |  it should be difficult to switch to a different model      |
+| Remaining questions?           |     |
+
+
 
