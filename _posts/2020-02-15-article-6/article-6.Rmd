@@ -27,15 +27,14 @@ The guardian + https://www.theguardian.com/environment/2020/jan/23/appetite-for-
 
 | words from the text | Synonym / explanation in   English |
 | ------------------- | ---------------------------------- |
-|                  |                                |
-|           |                                  |
-|                |                              |
-|               |                                |
-|               |                          |
-|                  |                                |
-|             |                             |
-|          |                    |
-|            |                             |
+|        wet          |               humidity                 |
+|    poultry       |                 chicken                 |
+|        stalls        |               halt               |
+|       trickle        |                net                |
+|         prevalent     |              common            |
+|        dismal          |              horrible                  |
+|       held      |          detain                   |
+|       bills   |         debt           |
 
 ### IV. Analysis table
 
