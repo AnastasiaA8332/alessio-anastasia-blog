@@ -1,6 +1,6 @@
 ---
 title: "article 7"
-description: "  "
+description: " skin and meat of donkeys in Kenya "
 author:
   - name: Alessio Anastasia
     url: {}
@@ -17,17 +17,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I. Title of the article: 
 
-
+"Why Kenya has banned the commercial slaughter of donkeys"
 
 ### II. Name of the Magazine + Source [URL]:
 
-
+The conversation + https://theconversation.com/why-kenya-has-banned-the-commercial-slaughter-of-donkeys-121455
 
 ### III. Vocabulary
 
 | words from the text | Synonym / explanation in   English |
 | ------------------- | ---------------------------------- |
-|                |                                |
+|       donkey         |                                |
 |          |                                 |
 |              |                             |
 |             |                               |
@@ -38,12 +38,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### IV. Analysis table
 
-| Researchers                    |     |
+| Researchers                    |   journalist of "the conversation"  |
 |--------------------------------|-------|
-| Published in?                  |   /0/2020  |
-| General topic?                 |      |
-| Procedure/what   was examined? |    |
-| Conclusions/discovery?         |        |
+| Published in?                  |   01/03/2020  |
+| General topic?                 |   the ban of killing donkeys in kenya   |
+| Procedure/what   was examined? |  we examine the reaction of kenya to the risk of losing donkeys in this country  |
+| Conclusions/discovery?         |    if we don't stop to kill donkeys in Kenya, there will not be anymore    |
 | Remaining questions?           |     |
 
 
