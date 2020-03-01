@@ -1,7 +1,6 @@
 ---
 title: "article 7"
-description: |
-  A short description of the post.
+description: "  "
 author:
   - name: Alessio Anastasia
     url: {}
@@ -14,8 +13,39 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+# Article analysis n° 7 
 
-Distill is a publication format for scientific and technical writing, native to the web.
+### I. Title of the article: 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+### II. Name of the Magazine + Source [URL]:
+
+
+
+### III. Vocabulary
+
+| words from the text | Synonym / explanation in   English |
+| ------------------- | ---------------------------------- |
+|                |                                |
+|          |                                 |
+|              |                             |
+|             |                               |
+|              |                          |
+|                 |                                |
+|             |                             |
+|         |                    |
+
+### IV. Analysis table
+
+| Researchers                    |     |
+|--------------------------------|-------|
+| Published in?                  |   /0/2020  |
+| General topic?                 |      |
+| Procedure/what   was examined? |    |
+| Conclusions/discovery?         |        |
+| Remaining questions?           |     |
+
+
+
 
