@@ -27,14 +27,14 @@ The conversation + https://theconversation.com/why-kenya-has-banned-the-commerci
 
 | words from the text | Synonym / explanation in   English |
 | ------------------- | ---------------------------------- |
-|       donkey         |                                |
-|          |                                 |
-|              |                             |
-|             |                               |
-|              |                          |
-|                 |                                |
-|             |                             |
-|         |                    |
+|       donkey         |             horse/mule                   |
+|       hide   |            camouflage/skin                     |
+|    blow          |            hit                 |
+|       household      |    home                           |
+|      scarcity        |         rarity                 |
+|       to fetch          |      obtain                          |
+|    to hire         |                engage             |
+|      breed   |    race                |
 
 ### IV. Analysis table
 
