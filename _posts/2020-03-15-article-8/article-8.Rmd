@@ -41,9 +41,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                    |   Catherine Shoard  |
 |--------------------------------|-------|
 | Published in?                  |   21/02/2020  |
-| General topic?                 |      |
-| Procedure/what   was examined? |    |
-| Conclusions/discovery?         |        |
+| General topic?                 |   The speech of Joaquin Phoenix at the Oscar about farming practices    |
+| Procedure/what   was examined? |  We examine actions of Joaquin Phoenix to save cows and calfs   |
+| Conclusions/discovery?         |    The cow and its baby are in the fields    |
 | Remaining questions?           |     |
 
 
