@@ -27,21 +27,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | words from the text | Synonym / explanation in   English |
 | ------------------- | ---------------------------------- |
-|                |                                |
-|          |                                 |
-|              |                           |
-|             |                               |
-|              |                          |
-|                 |                                |
-|             |                        |
-|         |                    |
+|       calf         |          veal                      |
+|      cattle    |                 herd                |
+|        lengthy      |          long                 |
+|          entitled   |            designate                   |
+|       unmistakable       |           evident               |
+|          harvest       |             collect                   |
+|       rough      |          harsh              |
 
 ### IV. Analysis table
 
 | Researchers                    |   Catherine Shoard  |
 |--------------------------------|-------|
 | Published in?                  |   21/02/2020  |
-| General topic?                 |   The speech of Joaquin Phoenix at the Oscar about farming practices    |
+| General topic?                 |   The speech of Joaquin Phoenix at the Oscar about the meat industry    |
 | Procedure/what   was examined? |  We examine actions of Joaquin Phoenix to save cows and calfs   |
 | Conclusions/discovery?         |    The cow and its baby are in the fields    |
 | Remaining questions?           |     |
