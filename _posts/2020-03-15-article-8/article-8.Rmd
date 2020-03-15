@@ -1,6 +1,6 @@
 ---
 title: "article 8"
-description: Joaquin Phoenix goes to a farmer and saves a cow and its baby from slaughterhouse
+description: Joaquin Phoenix goes to a slaughterhouse in California and saves a cow and its baby
 author:
   - name: Alessio Anastasia
     url: {}
