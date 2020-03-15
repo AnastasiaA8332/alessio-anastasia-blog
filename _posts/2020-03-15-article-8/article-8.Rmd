@@ -1,0 +1,50 @@
+---
+title: "article 8"
+description: Joaquin Phoenix goes to a farmer and saves a cow and its baby from slaughterhouse
+author:
+  - name: Alessio Anastasia
+    url: {}
+date: 03-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Article analysis n° 8 
+
+### I. Title of the article: 
+
+"Joaquin Phoenix saves cow and calf from slaughterhouse"
+
+### II. Name of the Magazine + Source [URL]:
+
+"The guardian" + https://www.theguardian.com/film/2020/feb/21/joaquin-phoenix-rescues-cow-and-calf
+
+### III. Vocabulary
+
+| words from the text | Synonym / explanation in   English |
+| ------------------- | ---------------------------------- |
+|                |                                |
+|          |                                 |
+|              |                           |
+|             |                               |
+|              |                          |
+|                 |                                |
+|             |                        |
+|         |                    |
+
+### IV. Analysis table
+
+| Researchers                    |   Catherine Shoard  |
+|--------------------------------|-------|
+| Published in?                  |   21/02/2020  |
+| General topic?                 |      |
+| Procedure/what   was examined? |    |
+| Conclusions/discovery?         |        |
+| Remaining questions?           |     |
+
+
+
