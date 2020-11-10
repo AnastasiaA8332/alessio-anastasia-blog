@@ -5,8 +5,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "About Me"
+      href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/AnastasiaA8332/alessio-anastasia-blog
 base_url: https://AnastasiaA8332.github.io/alessio-anastasia-blog
