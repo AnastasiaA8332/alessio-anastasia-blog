@@ -1,7 +1,7 @@
 ---
 title: "graphic_description"
 description: |
-  A short description of the post.
+  Data Sciences I
 author:
   - name: Alessio Anastasia
     url: {}
@@ -15,3 +15,16 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+```{r}
+SciViews::R
+data <- read("urchin_bio", package = "data.io")
+
+```
+
+We analyse in this database, datas are about urchins in the marin environment and urchin in a farm.
+
+```{r}
+chart(urchin_bio, ~ weight %fill=% origin) +
+  geom_histogram(bins = 30, na.rm = TRUE)
+```
+The weight of urchins "farm" is more bigger than urchins "fishery". Urchins "farm" are farm for the commercialisation ; it's why they are bigger.
