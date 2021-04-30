@@ -1,0 +1,27 @@
+---
+title: "About Me"
+description: |
+  A short description of the post.
+author:
+  - name: Alessio Anastasia
+    url: {}
+date: 04-30-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+- My name is Alessio Anastasia.
+- I'm a second year student in Biologie at Umons in Belgium.
+- I go to school in train from La Louvière. Since the pandemic of Covid-19, I go to school by car.
+- I play video games with my friends and i drink beers with them.
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

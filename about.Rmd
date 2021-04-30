@@ -1,11 +1,15 @@
 ---
-title: "About me"
+title: "About Me"
+author:
+  - name: "Alessio Anastasia" 
+date: "r Sys.Date()"
+output: distill::distill_article
 ---
 
 
 - My name is Alessio Anastasia.
 - I'm a second year student in Biologie at Umons in Belgium.
-- I go to school in train from La Louvière.
+- I go to school in train from La Louvière. Since the pandemic of Covid-19, I go to school by car.
 - I play video games with my friends and i drink beers with them.
 
 

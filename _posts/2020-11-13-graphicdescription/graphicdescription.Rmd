@@ -26,4 +26,4 @@ We analyse in this database, datas are about urchins in the marin environment an
 chart(urchin_bio, ~ weight %fill=% origin) +
   geom_histogram(bins = 30, na.rm = TRUE)
 ```
-The weight of urchins "farm" is more bigger than urchins "fishery". Urchins "farm" are farm for the commercialisation ; it's why they are bigger.
+The weight of urchins "farm" is more bigger than urchins "fishery" ; it's the double at each data. Urchins "farm" are farm for the commercialisation ; it's why they are bigger than the "fishery".
